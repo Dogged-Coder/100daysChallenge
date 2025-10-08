@@ -26,6 +26,8 @@ int main()
         case 6:
         printf("Saturday");
         break;
+
+        //yeah lol
         case 7:
         printf("Sunday");
         break;
