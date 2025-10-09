@@ -20,6 +20,8 @@ int main() {
     if (flag == 0)
         printf("Palindrome");
     else
+
+    
         printf("Not Palindrome");
 
     return 0;
