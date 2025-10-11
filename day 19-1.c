@@ -13,6 +13,8 @@ int main()
         {
             hcf = i;
         }
+
+        
     }
     printf("HCF of %d and %d is: %d\n", a, b, hcf);
     return 0;
